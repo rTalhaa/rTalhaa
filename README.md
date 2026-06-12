@@ -3,39 +3,40 @@
 # Talha Rashid
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1200&color=0F172A&center=true&vCenter=true&width=760&lines=Building+clean%2C+useful+software;Turning+ideas+into+finished+products;Focused+on+clarity%2C+quality%2C+and+impact" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1200&color=0F172A&center=true&vCenter=true&width=760&lines=Building+software+that+looks+clean+and+works+well;Turning+scattered+ideas+into+finished+products;Focused+on+clarity%2C+craft%2C+and+impact" alt="Typing intro" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-rTalhaa-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username" />
   <img src="https://img.shields.io/badge/Focus-Product%20%26%20Engineering-111827?style=for-the-badge&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-111827?style=for-the-badge&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Intentional-111827?style=for-the-badge&logoColor=white" alt="Style" />
 </p>
 
 </div>
 
 ## About
 
-I'm Talha Rashid, and I like building software that feels organized, polished, and actually useful. My work mixes engineering, product thinking, and visual clarity so the final result is easy to understand and easy to use.
+I'm Talha Rashid, and I build software with a strong focus on structure, presentation, and usefulness. I like work that is easy to scan, easy to maintain, and polished enough to feel complete.
 
-## What I'm Known For
+## What I Bring
 
-- Shipping practical projects with a clean presentation
-- Building with Python, JavaScript, React, and modern web tooling
-- Working across product, automation, visualization, and ML-style projects
-- Improving scattered ideas into something structured and professional
+- Practical engineering with clean delivery
+- Strong interest in product thinking and user-facing polish
+- Experience across Python, JavaScript, React, and modern web tooling
+- A bias toward structure, clarity, and finishing details
 
-## Featured Projects
+## Selected Work
 
-| Project | Description | Stack |
+| Project | Why it stands out | Stack |
 | --- | --- | --- |
 | [Islamabad Land Price HeatMap](https://github.com/rTalhaa/Islamabad-Land-Price-HeatMap) | Automated Islamabad land price heatmap and spatial visualization project. | Python, Data Visualization |
-| [Portfolio](https://github.com/rTalhaa/portfolio) | Personal portfolio website and project showcase. | CSS, Frontend |
-| [Smart Right Click Browser Extension v2](https://github.com/rTalhaa/smart-right-click-browser-extension-v2) | Improved smart browser right-click extension with enhanced productivity features. | JavaScript, Browser Extension |
+| [SkinSync-RAG-Chatbot](https://github.com/rTalhaa/SkinSync-RAG-Chatbot) | AI skin analysis and skincare recommendation project. | Python, AI |
+| [Spotify-Clone-and-Music-Recommendation-System](https://github.com/rTalhaa/Spotify-Clone-and-Music-Recommendation-System) | Spotify-style clone with music recommendation functionality. | Python, Recommendation Systems |
+| [Smart Right Click Browser Extension v2](https://github.com/rTalhaa/smart-right-click-browser-extension-v2) | Browser productivity extension with improved interaction patterns. | JavaScript, Browser Extension |
 | [Tox21 Molecular Toxicity MLOps Platform](https://github.com/rTalhaa/Tox21-Molecular-Toxicity-MLOps-Platform) | ML model deployment project with MLOps-focused workflow and tooling. | Jupyter Notebook, MLOps |
-| [idurar-erp-crm](https://github.com/rTalhaa/idurar-erp-crm) | ERP/CRM work with JavaScript-based implementation. | JavaScript |
+| [Portfolio](https://github.com/rTalhaa/portfolio) | Personal portfolio website and project showcase. | CSS, Frontend |
 
-## Tech Stack
+## Current Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -59,14 +60,12 @@ I'm Talha Rashid, and I like building software that feels organized, polished, a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rTalhaa&theme=github-compact&hide_border=true" alt="Contribution graph" />
 </p>
 
-## What This Profile Says
+## Working Style
 
-This profile is designed to feel more like a portfolio than a file dump:
-
-- A clear identity at the top
-- Real project highlights instead of empty links
-- Visual GitHub data for credibility
-- A clean structure that reads well on desktop and mobile
+- Keep things readable first
+- Prefer useful visuals over clutter
+- Ship complete work, not rough outlines
+- Make the profile feel like a real portfolio
 
 ## Contact
 
@@ -76,5 +75,5 @@ This profile is designed to feel more like a portfolio than a file dump:
 ---
 
 <p align="center">
-  Built to look professional, organized, and easier to scan.
+  Built to feel more like a polished personal brand page than a list of repositories.
 </p>
