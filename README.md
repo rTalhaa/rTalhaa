@@ -1,71 +1,112 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Talha Rashid banner" width="100%" />
+
 # Talha Rashid
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1200&color=0F172A&center=true&vCenter=true&width=760&lines=Building+software+that+looks+clean+and+works+well;Turning+scattered+ideas+into+finished+products;Focused+on+clarity%2C+craft%2C+and+impact" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1200&color=F8FAFC&center=true&vCenter=true&width=760&lines=Designing+clean+systems+with+sharp+visuals;Turning+ideas+into+polished+products;Making+GitHub+feel+more+like+a+portfolio" alt="Typing intro" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-rTalhaa-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username" />
-  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Engineering-111827?style=for-the-badge&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Intentional-111827?style=for-the-badge&logoColor=white" alt="Style" />
+  <img src="https://img.shields.io/badge/GitHub-rTalhaa-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username" />
+  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Engineering-0F172A?style=for-the-badge&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Style-Bold%20%26%20Intentional-0F172A?style=for-the-badge&logoColor=white" alt="Style" />
 </p>
 
 </div>
 
 ## About
 
-I'm Talha Rashid, and I build software with a strong focus on structure, presentation, and usefulness. I like work that is easy to scan, easy to maintain, and polished enough to feel complete.
+I'm Talha Rashid, and I build software that should look sharp before it even gets clicked. I like work that feels structured, visually strong, and fully thought through.
 
-## What I Bring
+## Core Identity
 
-- Practical engineering with clean delivery
-- Strong interest in product thinking and user-facing polish
-- Experience across Python, JavaScript, React, and modern web tooling
-- A bias toward structure, clarity, and finishing details
+<table>
+  <tr>
+    <td>
+      <strong>What I care about</strong><br/>
+      Clear structure, polished delivery, and strong presentation.
+    </td>
+    <td>
+      <strong>How I build</strong><br/>
+      Python, JavaScript, React, and modern web tooling.
+    </td>
+    <td>
+      <strong>What I enjoy</strong><br/>
+      Turning scattered ideas into something impressive and complete.
+    </td>
+  </tr>
+</table>
 
-## Selected Work
+## Featured Work
 
-| Project | Why it stands out | Stack |
-| --- | --- | --- |
-| [Islamabad Land Price HeatMap](https://github.com/rTalhaa/Islamabad-Land-Price-HeatMap) | Automated Islamabad land price heatmap and spatial visualization project. | Python, Data Visualization |
-| [SkinSync-RAG-Chatbot](https://github.com/rTalhaa/SkinSync-RAG-Chatbot) | AI skin analysis and skincare recommendation project. | Python, AI |
-| [Spotify-Clone-and-Music-Recommendation-System](https://github.com/rTalhaa/Spotify-Clone-and-Music-Recommendation-System) | Spotify-style clone with music recommendation functionality. | Python, Recommendation Systems |
-| [Smart Right Click Browser Extension v2](https://github.com/rTalhaa/smart-right-click-browser-extension-v2) | Browser productivity extension with improved interaction patterns. | JavaScript, Browser Extension |
-| [Tox21 Molecular Toxicity MLOps Platform](https://github.com/rTalhaa/Tox21-Molecular-Toxicity-MLOps-Platform) | ML model deployment project with MLOps-focused workflow and tooling. | Jupyter Notebook, MLOps |
-| [Portfolio](https://github.com/rTalhaa/portfolio) | Personal portfolio website and project showcase. | CSS, Frontend |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/rTalhaa/Islamabad-Land-Price-HeatMap"><strong>Islamabad Land Price HeatMap</strong></a><br/>
+      Automated Islamabad land price heatmap and spatial visualization project.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/rTalhaa/SkinSync-RAG-Chatbot"><strong>SkinSync-RAG-Chatbot</strong></a><br/>
+      AI skin analysis and skincare recommendation project.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/rTalhaa/Spotify-Clone-and-Music-Recommendation-System"><strong>Spotify-Clone-and-Music-Recommendation-System</strong></a><br/>
+      Spotify-style clone with music recommendation functionality.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/rTalhaa/smart-right-click-browser-extension-v2"><strong>Smart Right Click Browser Extension v2</strong></a><br/>
+      Browser productivity extension with improved interaction patterns.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/rTalhaa/Tox21-Molecular-Toxicity-MLOps-Platform"><strong>Tox21 Molecular Toxicity MLOps Platform</strong></a><br/>
+      ML deployment project with MLOps-focused workflow and tooling.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/rTalhaa/portfolio"><strong>Portfolio</strong></a><br/>
+      Personal portfolio website and project showcase.
+    </td>
+  </tr>
+</table>
 
-## Current Stack
+## Visual Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-## GitHub Snapshot
+## GitHub Pulse
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rTalhaa&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark_dimmed" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTalhaa&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rTalhaa&show_icons=true&hide_border=true&rank_icon=github&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTalhaa&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rTalhaa&theme=github-compact&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rTalhaa&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-## Working Style
+## Signature
 
-- Keep things readable first
-- Prefer useful visuals over clutter
-- Ship complete work, not rough outlines
-- Make the profile feel like a real portfolio
+<table>
+  <tr>
+    <td><strong>Bold</strong><br/>Use contrast and hierarchy.</td>
+    <td><strong>Creative</strong><br/>Make the page memorable.</td>
+    <td><strong>Professional</strong><br/>Keep it clean and readable.</td>
+  </tr>
+</table>
 
 ## Contact
 
@@ -75,5 +116,5 @@ I'm Talha Rashid, and I build software with a strong focus on structure, present
 ---
 
 <p align="center">
-  Built to feel more like a polished personal brand page than a list of repositories.
+  Built to feel like a high-impact portfolio header, not a scattered repo dump.
 </p>
