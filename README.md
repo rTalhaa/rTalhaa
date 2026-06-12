@@ -5,7 +5,7 @@
 # Talha Rashid
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1200&color=F8FAFC&center=true&vCenter=true&width=760&lines=Designing+clean+systems+with+sharp+visuals;Turning+ideas+into+polished+products;Making+GitHub+feel+more+like+a+portfolio" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=CBD5E1&center=true&vCenter=true&width=720&lines=Designing+clean+systems+with+sharp+visuals;Turning+ideas+into+polished+products;Making+GitHub+feel+more+like+a+portfolio" alt="Typing intro" />
 </p>
 
 <p>
@@ -19,6 +19,12 @@
 ## About
 
 I'm Talha Rashid, and I build software that should look sharp before it even gets clicked. I like work that feels structured, visually strong, and fully thought through.
+
+## Currently Building
+
+- Sharper product pages and portfolio-style experiences
+- Better visual storytelling around engineering projects
+- Clean systems that feel finished, not just functional
 
 ## Core Identity
 
